@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringSecurityApplicationTests {
-
+//This class is for only testing purpose.
 	@Test
 	void contextLoads() {
 	}
